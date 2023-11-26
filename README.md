@@ -1,4 +1,4 @@
-# Lab04: Mapping COVID-19
+# Lab04: Mapping COVID-19 Cases and Population Density
 
 ## Overview
 This lab showcases two interactive web maps using Mapbox GL JS. The first map visualizes COVID-19 case rates in Washington counties while the other displays population density in U.S. states.
