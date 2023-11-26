@@ -1,7 +1,7 @@
 # Lab04: Mapping COVID-19
 
 ## Overview
-This lab showcases two interactive web maps using Mapbox GL JS. The first map visualizes COVID-19 case rates in Washington counties while the other displays population density in U.S. states.
+This lab showcases two interactive web maps using Mapbox GL JS. The first map visualizes COVID-19 case rates in Washington counties while the other displays population density in the U.S. states.
 
 ## Maps
 1. **COVID-19 Case Rates Map (`index.html`)**: This map displays the cumulative COVID-19 case rates per 10,000 people in each county. Data was collected in Washington state and was last updated in October 25th, 2021.
