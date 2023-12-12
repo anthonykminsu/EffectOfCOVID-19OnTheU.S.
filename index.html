@@ -119,7 +119,7 @@
 
          // Load data and add as layer
          async function geojsonFetch() {
-             let response = await fetch('/assets/wa-covid-data-102521.geojson'); // Ensure the correct path
+             let response = await fetch('assets/wa-covid-data-102521.geojson'); // Ensure the correct path
              let covidData = await response.json();
 
              map.on('load', function loadingData() {
